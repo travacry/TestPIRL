@@ -1,0 +1,29 @@
+// Переопределение дефолтных значений переменных Bootstrap 4 и определение своих
+@import "variables";
+
+// Подключение нужных SCSS исходников Bootstrap 4
+@import "../bower_components/bootstrap/scss/bootstrap";
+@import "../bower_components/bootstrap/scss/functions";
+@import "../bower_components/bootstrap/scss/variables";
+@import "../bower_components/bootstrap/scss/mixins";
+@import "../bower_components/bootstrap/scss/reboot";
+@import "../bower_components/bootstrap/scss/grid";
+@import "../bower_components/bootstrap/scss/tables";
+@import "../bower_components/bootstrap/scss/forms";
+@import "../bower_components/bootstrap/scss/buttons";
+@import "../bower_components/bootstrap/scss/transitions";
+@import "../bower_components/bootstrap/scss/dropdown";
+@import "../bower_components/bootstrap/scss/input-group";
+@import "../bower_components/bootstrap/scss/nav";
+@import "../bower_components/bootstrap/scss/navbar";
+@import "../bower_components/bootstrap/scss/card";
+@import "../bower_components/bootstrap/scss/pagination";
+@import "../bower_components/bootstrap/scss/badge";
+@import "../bower_components/bootstrap/scss/alert";
+@import "../bower_components/bootstrap/scss/close";
+@import "../bower_components/bootstrap/scss/utilities";
+
+@import url("../bower_components/bootstrap-table/dist/bootstrap-table.css");
+
+// Подключение своих SCSS файлов
+@import "my";

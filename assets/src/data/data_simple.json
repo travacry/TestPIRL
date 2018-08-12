@@ -1,0 +1,47 @@
+[	
+	{
+		"date" : "10-01-2018",
+		"coins_cnt" : 18,
+		"gems_cnt" : 51
+	}, {
+		"date" : "09-01-2018",
+		"coins_cnt" : 27,
+		"gems_cnt" : 39
+	}, {
+		"date" : "08-01-2018",
+		"coins_cnt" : 6,
+		"gems_cnt" : 59
+	}, {
+		"date" : "07-01-2018",
+		"coins_cnt" : 33,
+		"gems_cnt" : 30
+	},{
+		"date" : "06-01-2018",
+		"coins_cnt" : 7,
+		"gems_cnt" : 17
+	}, {
+		"date" : "05-01-2018",
+		"coins_cnt" : 35,
+		"gems_cnt" : 77
+	}, {
+		"date" : "04-01-2018",
+		"coins_cnt" : 9,
+		"gems_cnt" : 29
+	}, {
+		"date" : "03-01-2018",
+		"coins_cnt" : 25,
+		"gems_cnt" : 43
+	}, {
+		"date" : "02-01-2018",
+		"coins_cnt" : 11,
+		"gems_cnt" : 14
+	}, {
+		"date" : "01-01-2018",
+		"coins_cnt" : 12,
+		"gems_cnt" : 35
+	},{
+		"date" : "31-12-2017",
+		"coins_cnt" : 15,
+		"gems_cnt" : 47
+	}
+]

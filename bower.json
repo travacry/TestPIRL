@@ -1,0 +1,23 @@
+{
+  "name": "TestPIRL",
+  "description": "test",
+  "main": "gulpfile.js",
+  "authors": [
+    "Alex.K"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/src/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.*.*",
+    "jquery": "^3.3.1"
+  }
+}
